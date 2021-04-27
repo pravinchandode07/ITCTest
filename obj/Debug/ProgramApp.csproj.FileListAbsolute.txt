@@ -1,0 +1,7 @@
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\bin\Debug\ProgramApp.exe.config
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\bin\Debug\ProgramApp.exe
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\bin\Debug\ProgramApp.pdb
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\obj\Debug\ProgramApp.csprojAssemblyReference.cache
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\obj\Debug\ProgramApp.csproj.CoreCompileInputs.cache
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\obj\Debug\ProgramApp.exe
+C:\Users\10663335\source\repos\ProgramApp\ProgramApp\obj\Debug\ProgramApp.pdb
